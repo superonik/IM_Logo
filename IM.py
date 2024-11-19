@@ -48,10 +48,10 @@ def draw_ironman_logo():
 
 
     # Draw the red circle (head)
-    draw_circle(0, 150, 75, "blue")
+    draw_circle(0, 150, 75, "red")
 
     # Draw the red rectangle (body)
-    draw_rectangle(-150, -150, 300, 220, "blue")
+    draw_rectangle(-150, -150, 300, 220, "red")
 
     # Draw the white 'M' cutout
     draw_m_cutout(-100, -150, 200, -125, "white")
