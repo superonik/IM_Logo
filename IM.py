@@ -48,7 +48,7 @@ def draw_ironman_logo():
 
 
     # Draw the red circle (head)
-    draw_circle(0, 150, 75, "blue")
+    draw_circle(0, 150, 75, "yellow")
 
     # Draw the red rectangle (body)
     draw_rectangle(-150, -150, 300, 220, "yellow")
