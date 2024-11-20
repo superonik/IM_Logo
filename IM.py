@@ -62,3 +62,4 @@ def draw_ironman_logo():
 
 # Run the function
 draw_ironman_logo()
+print ("IRONMAN YELLOW LOGO")
